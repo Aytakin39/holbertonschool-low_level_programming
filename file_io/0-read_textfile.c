@@ -3,7 +3,7 @@
  * Auth: Aytakin Imanova
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
